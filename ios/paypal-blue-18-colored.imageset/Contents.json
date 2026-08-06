@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "filename": "paypal-blue-18-colored.svg",
+      "idiom": "universal"
+    }
+  ],
+  "info": {
+    "author": "Iconography Manager",
+    "version": 1
+  },
+  "properties": {
+    "preserves-vector-representation": true,
+    "template-rendering-intent": "template"
+  }
+}

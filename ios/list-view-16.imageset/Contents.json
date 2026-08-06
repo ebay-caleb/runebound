@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "filename": "list-view-16.svg",
+      "idiom": "universal"
+    }
+  ],
+  "info": {
+    "author": "Iconography Manager",
+    "version": 1
+  },
+  "properties": {
+    "preserves-vector-representation": true,
+    "template-rendering-intent": "template"
+  }
+}
