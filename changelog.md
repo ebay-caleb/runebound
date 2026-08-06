@@ -1,5 +1,1089 @@
 # Global Iconography Changelog
 
+## 2026-08-06
+
+### Changes:
+1079 Icon(s) Total
+
+- New Add 12
+- New Close 16
+- New Close 12
+- New Copy 24
+- New Copy 16
+- New Customize 24
+- New Customize 16
+- New Delete 24
+- New Delete 20
+- New Delete 16
+- New Desktop 24
+- New Desktop 20
+- New Desktop 16
+- New Drag Drop 24
+- New Drag Drop 16
+- New Download 24
+- New Download 20
+- New Download 16
+- New Fingerprint 24
+- New Fingerprint 16
+- New Glasses 24
+- New Hand Swipe 40
+- New Heart 24
+- New Heart 20
+- New Heart 16
+- New Heart filled 24
+- New Heart filled 20
+- New Heart filled 16
+- New Hide 24
+- New Hide 16
+- New Key 24
+- New Key 16
+- New Link 24
+- New Link 20
+- New Link 16
+- New Eye 24
+- New Eye 16
+- New Location Arrow 24
+- New Location Arrow 16
+- New Markdown 24
+- New Markdown 20
+- New Markdown 16
+- New Microphone 24
+- New Microphone 16
+- New Mobile 24
+- New Mobile 20
+- New Mobile 16
+- New Neutral 24
+- New Neutral 16
+- New Panel 24
+- New Panel 20
+- New Panel 16
+- New Panel Close 24
+- New Panel Close 20
+- New Panel Close 16
+- New Panel Open 24
+- New Panel Open 20
+- New Panel Open 16
+- New Panel Close Vertical 24
+- New Panel Close Vertical 20
+- New Panel Close Vertical 16
+- New Panel Open Vertical 24
+- New Panel Open Vertical 20
+- New Panel Open Vertical 16
+- New Pencil 24
+- New Pencil 20
+- New Pencil 16
+- New Phone 24
+- New Phone 16
+- New Pin 24
+- New Pin filled 24
+- New Pin 16
+- New Pin 12
+- New Pin filled 16
+- New Pin filled 12
+- New Print 24
+- New Print 16
+- New QR Code 24
+- New QR Code 16
+- New Recovery Code 24
+- New Recovery Code 16
+- New Refresh 24
+- New Refresh 20
+- New Refresh 16
+- New Remove 24
+- New Remove 16
+- New Remove 12
+- New Return 24
+- New Return 16
+- New Scan 24
+- New Scan 16
+- New Search Similar 24
+- New Search Similar 20
+- New Search Similar 16
+- New Security Key 24
+- New Send 24
+- New Share IOS 24
+- New Share IOS 20
+- New Share IOS 16
+- New Share Android 24
+- New Share Android 20
+- New Share Android 16
+- New Show 24
+- New Show 16
+- New Sort 24
+- New Sort 16
+- New Sort 12
+- New Sort Down 12
+- New Sort Up 12
+- New Tablet 24
+- New Tablet 20
+- New Tablet 16
+- New Text Size 24
+- New Text Size 16
+- New Translate 24
+- New Translate 20
+- New Translate 16
+- New Upload 24
+- New Upload 16
+- New Zoom In 24
+- New Zoom In 16
+- New Zoom Out 24
+- New Zoom Out 16
+- New Dollar 24
+- New Dollar 16
+- New Dollar Off 24
+- New Euro 24
+- New Euro 16
+- New Franc 24
+- New Franc 16
+- New Krona 24
+- New Krona 16
+- New Peso 24
+- New Peso 16
+- New Pound 24
+- New Pound 16
+- New Ringgit 24
+- New Ringgit 16
+- New Rupee 24
+- New Rupee 16
+- New Won 24
+- New Won 16
+- New Yuan 24
+- New Yuan 16
+- New Zloty 24
+- New Zloty 16
+- New Condensed Grid 24
+- New Condensed Grid filled 24
+- New Density Compact 24
+- New Density Compact 16
+- New Density Default 24
+- New Density Default 16
+- New Density Relaxed 24
+- New Density Relaxed 16
+- New Density Row Compact 24
+- New Density Row Compact 16
+- New Density Row Relaxed 24
+- New Density Row Relaxed 16
+- New Filter 24
+- New Filter 16
+- New Full View 24
+- New Full View 16
+- New Full View filled 24
+- New Full View filled 16
+- New Grid View 24
+- New Grid View 16
+- New Grid View filled 24
+- New Grid View filled 16
+- New List View 24
+- New List View 16
+- New List View filled 24
+- New List View filled 16
+- New Masonry View 24
+- New Masonry View filled 24
+- New Masonry View 16
+- New Masonry View filled 16
+- New Relaxed Grid 24
+- New Relaxed Grid filled 24
+- New Split View 24
+- New Split View filled 24
+- New Afterpay Logo 24
+- New Apple Music 24
+- New eBay Bucks Logo 16
+- New eBay Logo 16
+- New eBay Money Back Guarantee Logo 16
+- New eBay Plus Logo 16
+- New eBay Plus Logo Dark 16
+- New Nectar Logo 24
+- New PayPal Logo 16
+- New Pay by Bank UK 24
+- New Pay by Bank BE 24
+- New Pay by Bank DE 24
+- New Pay by Bank FR 24
+- New PSA Vault Logo 16
+- New PSA Vault Logo Color 16
+- New PSA Logo 16
+- New PSA Logo Color 16
+- New Archive 24
+- New Archive 16
+- New Chat 24
+- New Chat 16
+- New Flag 24
+- New Flag 16
+- New Flag filled 24
+- New Flag filled 16
+- New Folder 24
+- New Folder 16
+- New Folder Add 24
+- New Folder Add 16
+- New Inbox 24
+- New Inbox 16
+- New Mail 24
+- New Mail 20
+- New Mail 16
+- New Mail Move 24
+- New Mail Move 16
+- New Mail Open 24
+- New Mail Open 16
+- New Mail Unread 24
+- New Mail Unread 16
+- New Reply 24
+- New Reply 16
+- New Reply 12
+- New Reply Chat 24
+- New Reply Chat 16
+- New Reply Chat 12
+- New Text Messaging 24
+- New Text Messaging 20
+- New Text Messaging 16
+- New Adjust price down 24
+- New Adjust price down 16
+- New Adjust price up 24
+- New Adjust price up 16
+- New AI 24
+- New AI 20
+- New AI 16
+- New AI thin 16
+- New AI Camera 24
+- New AI Camera 20
+- New AI Camera 16
+- New AI Mobile 24
+- New AI Mobile 20
+- New AI Mobile 16
+- New AI Spectrum filled 24
+- New AI Spectrum filled 20
+- New AI Spectrum filled 16
+- New AI Search 24
+- New AI Search filled 24
+- New AI Search 20
+- New AI Search 16
+- New AI Shirt 24
+- New AI Shirt 20
+- New AI Shirt 16
+- New AI Summary 24
+- New AI Summary 20
+- New AI Summary 16
+- New AI Tools 24
+- New AI Tools 20
+- New AI Tools 16
+- New Arrow Down 24
+- New Arrow Down 20
+- New Arrow Down 16
+- New Arrow Down 12
+- New Arrow Left 24
+- New Arrow Left 20
+- New Arrow Left 16
+- New Arrow Left 12
+- New Arrow Right 24
+- New Arrow Right 20
+- New Arrow Right 16
+- New Arrow Right 12
+- New Arrow Up 24
+- New Arrow Up 20
+- New Arrow Up 16
+- New Arrow Up 12
+- New Article 24
+- New Article 16
+- New Atv 24
+- New Atv 16
+- New Bank 24
+- New Bank 20
+- New Bank 16
+- New Bar Chart 24
+- New Bar Chart 16
+- New Bids 24
+- New Bids 16
+- New Bids 12
+- New Boat 24
+- New Boat 16
+- New Book 24
+- New Book 16
+- New Calendar 24
+- New Calendar 16
+- New Car 24
+- New Car 16
+- New Car Brake 24
+- New Car Brake 16
+- New Cart 24
+- New Cart 20
+- New Cart 16
+- New Categories 24
+- New Categories 16
+- New Chair 24
+- New Chair 16
+- New Chevron Down 24
+- New Chevron Down 20
+- New Chevron Down 16
+- New Chevron Down 12
+- New Chevron Left 24
+- New Chevron Left 20
+- New Chevron Left 16
+- New Chevron Left 12
+- New Chevron Right 24
+- New Chevron Right 20
+- New Chevron Right 16
+- New Chevron Right 12
+- New Chevron Up 24
+- New Chevron Up 20
+- New Chevron Up 16
+- New Chevron Up 12
+- New Chinese Coin 24
+- New Chinese Coin 16
+- New Clock 24
+- New Clock 16
+- New Clock 12
+- New Clock Fast 24
+- New Clock Fast 16
+- New Coin 24
+- New Collections 24
+- New Collections 16
+- New Coupon 24
+- New Coupon 20
+- New Coupon 16
+- New Credit Card 24
+- New Credit Card 20
+- New Credit Card 16
+- New Credit Card CVV Back 24
+- New Credit Card CVV Back 20
+- New Credit Card CVV Front 24
+- New Credit Card CVV Front 20
+- New Diamond 24
+- New Diamond 16
+- New Discount 24
+- New Discount 16
+- New Discount Auto 24
+- New Discount Auto 16
+- New Live Bag 24
+- New Live Bag filled 24
+- New Live Bag 20
+- New eBay Live Bag 16
+- New Live Bag thin 16
+- New Live Broadcast 24
+- New Live Broadcast filled 24
+- New Live Broadcast 20
+- New Live Broadcast 16
+- New Live Broadcast thin 16
+- New Exclude 24
+- New Exclude 16
+- New Explore 24
+- New Explore 16
+- New External Link 24
+- New External Link 20
+- New External Link 16
+- New Fall leaf 24
+- New Fall leaf 16
+- New Feedback 24
+- New Feedback 20
+- New Feedback 16
+- New Feedback Error 24
+- New Feedback Error 16
+- New Feedback Received 24
+- New Feedback Received 16
+- New File 24
+- New File 16
+- New Gift 24
+- New Gift 20
+- New Gift 16
+- New Graph 24
+- New Graph 16
+- New Graph Dynamic 24
+- New Graph Dynamic 16
+- New Hanger 24
+- New Hanger 16
+- New Headlight 24
+- New Headlight 16
+- New Headphone 24
+- New Headphone 16
+- New Help 24
+- New Help 20
+- New Help 16
+- New Help Outline 24
+- New Help Outline 20
+- New Help Outline 16
+- New History 24
+- New History 16
+- New Home 24
+- New Home 20
+- New Home 16
+- New Home filled 24
+- New Inspect 24
+- New Inspect 16
+- New Item List 24
+- New Item List 20
+- New Item List 16
+- New Jet Ski 24
+- New Jet Ski 16
+- New Keyboard 24
+- New Keyboard 16
+- New Lamp 24
+- New Lamp 16
+- New Lightbulb 24
+- New Lightbulb 16
+- New Lightning Bolt 24
+- New Lightning Bolt filled 24
+- New Lightning Bolt 16
+- New Lightning Bolt filled 16
+- New Lightning Bolt 12
+- New Lightning Bolt filled 12
+- New Location 24
+- New Location 16
+- New Lock 24
+- New Lock 16
+- New Lock filled 24
+- New Lock filled 20
+- New Lock filled 16
+- New Locker 24
+- New Locker 16
+- New Map 24
+- New Map 20
+- New Map 16
+- New Megaphone 24
+- New Megaphone 16
+- New Menu 24
+- New Menu 20
+- New Menu 16
+- New Mobile Signal 24
+- New Moon 24
+- New Moon 20
+- New Moon 16
+- New Money Stack 24
+- New Money Stack 20
+- New Money Stack 16
+- New Motorcycle 24
+- New Motorcycle 16
+- New Mountain 24
+- New Mountain 16
+- New Move 24
+- New Move 16
+- New Nfc 24
+- New Nfc 16
+- New Note 24
+- New Note 16
+- New Note 12
+- New Notification 24
+- New Notification filled 24
+- New Notification 20
+- New Notification filled 20
+- New Notification 16
+- New Notification filled 16
+- New Overflow Vertical 24
+- New Overflow Vertical 20
+- New Overflow Vertical 16
+- New Overflow Horizontal 24
+- New Overflow Horizontal 20
+- New Overflow Horizontal 16
+- New Passkey 24
+- New Passkey 16
+- New Payout 24
+- New Payout 20
+- New Payout 16
+- New Pencil Signed 24
+- New People 24
+- New People 16
+- New Potted Plant 24
+- New Potted Plant 16
+- New Profile 24
+- New Profile filled 24
+- New Profile 20
+- New Profile 16
+- New Profile Check 24
+- New Profile Check 20
+- New Profile Check 16
+- New Promotion 24
+- New Promotion 16
+- New Promotion 12
+- New Ribbon 24
+- New Ribbon 16
+- New Rim 24
+- New Rim 16
+- New Ruler 24
+- New Ruler 16
+- New Search 24
+- New Search filled 24
+- New Search 20
+- New Search 16
+- New Seasons 24
+- New Seasons 16
+- New Selling 24
+- New Selling filled 24
+- New Selling 20
+- New Selling 16
+- New Selling 12
+- New Settings 24
+- New Settings 20
+- New Settings 16
+- New Shirt 24
+- New Shirt 16
+- New Shopping Event 24
+- New Shopping Event 16
+- New Shovel 24
+- New Shovel 16
+- New Skull 24
+- New Skull 16
+- New Skull 12
+- New Sneaker 24
+- New Sneaker 16
+- New Snowflake 24
+- New Snowflake 16
+- New Snowmobile 24
+- New Snowmobile 16
+- New Speedometer 24
+- New Speedometer 16
+- New Split Payment 24
+- New Split Payment 16
+- New Spring leaf 24
+- New Spring leaf 16
+- New Store 24
+- New Store filled 24
+- New Store 16
+- New Support 24
+- New Swap 24
+- New Swap 16
+- New Target 24
+- New Target 16
+- New Tire 24
+- New Tire 16
+- New Toggle Mode Top 24
+- New Toggle Mode Bottom 24
+- New Trading Card 24
+- New Trading Card 16
+- New Trading Card Grade 24
+- New Trading Card Grade 16
+- New Trading Card Edition 24
+- New Transaction 24
+- New Trophy 24
+- New Trophy 16
+- New Unlock 24
+- New Unlock 16
+- New Video 24
+- New Wallet 24
+- New Wallet 16
+- New Watch 24
+- New Watch 16
+- New Wire Transfer 24
+- New Wire Transfer 16
+- New Wrench 24
+- New Wrench 16
+- New Afterpay 12
+- New Afterpay 18
+- New Afterpay 24
+- New Afterpay 32
+- New Alipay CN 12
+- New Alipay CN 18
+- New Alipay CN 24
+- New Alipay CN 32
+- New Alipay CN disabled 12
+- New Alipay CN disabled 18
+- New Alipay CN disabled 24
+- New Alipay CN disabled 32
+- New Alipay HK 12
+- New Alipay HK 18
+- New Alipay HK 24
+- New Alipay HK 32
+- New AMEX 12
+- New AMEX 24
+- New AMEX 18
+- New AMEX 32
+- New Apple Pay 12
+- New Apple Pay 18
+- New Apple Pay 24
+- New Apple Pay 32
+- New Bancontact 12
+- New Bancontact 18
+- New Bancontact 24
+- New Bancontact 32
+- New Bancontact disabled 12
+- New Bancontact disabled 18
+- New Bancontact disabled 24
+- New Bancontact disabled 32
+- New Bank Account 12
+- New Bank Account 18
+- New Bank Account 24
+- New Bank Account 32
+- New Bank of America 12
+- New Bank of America 18
+- New Bank of America 24
+- New Bank of America 32
+- New Capital One 12
+- New Capital One 18
+- New Capital One 24
+- New Capital One 32
+- New Carnet 12
+- New Carnet 18
+- New Carnet 24
+- New Carnet 32
+- New Cashapp 12
+- New Cashapp 18
+- New Cashapp 24
+- New Cashapp 32
+- New CB 12
+- New CB 18
+- New CB 24
+- New CB 32
+- New CB disabled 12
+- New CB disabled 18
+- New CB disabled 24
+- New CB disabled 32
+- New Chase 12
+- New Chase 18
+- New Chase 24
+- New Chase 32
+- New Citi 12
+- New Citi 18
+- New Citi 24
+- New Citi 32
+- New Diners 12
+- New Diners 18
+- New Diners 24
+- New Diners 32
+- New Direct Debit 12
+- New Direct Debit 18
+- New Direct Debit 24
+- New Direct Debit 32
+- New Discover 12
+- New Discover 24
+- New Discover 18
+- New Discover 32
+- New eBay Balance 12
+- New eBay Balance 18
+- New eBay Balance 24
+- New eBay Balance 32
+- New eBay Credit Card Black 12
+- New eBay Credit Card Black 18
+- New eBay Credit Card Black 24
+- New eBay Credit Card Black 32
+- New eBay Credit Card Purple 12
+- New eBay Credit Card Purple 18
+- New eBay Credit Card Purple 24
+- New eBay Credit Card Purple 32
+- New eBay Credit Card White 12
+- New eBay Credit Card White 18
+- New eBay Credit Card White 24
+- New eBay Credit Card White 32
+- New eBay Mastercard 12
+- New eBay Mastercard 18
+- New eBay Mastercard 24
+- New eBay Mastercard 32
+- New Eftpos 12
+- New Eftpos 18
+- New Eftpos 24
+- New Eftpos 32
+- New Eftpos disabled 12
+- New Eftpos disabled 18
+- New Eftpos disabled 24
+- New Eftpos disabled 32
+- New Elo 12
+- New Elo 18
+- New Elo 24
+- New Elo 32
+- New Escrow Card 12
+- New Escrow Card 18
+- New Escrow Card 24
+- New Escrow Card 32
+- New General Card 12
+- New General Card 18
+- New General Card 24
+- New General Card 32
+- New Generic Card 12
+- New Generic Card 18
+- New Generic Card 24
+- New Generic Card 32
+- New Gift Card 12
+- New Gift Card 18
+- New Gift Card 24
+- New Gift Card 32
+- New Girocard 12
+- New Girocard 18
+- New Girocard 24
+- New Girocard 32
+- New Google Pay 12
+- New Google Pay 18
+- New Google Pay 24
+- New Google Pay 32
+- New Interac 12
+- New Interac 18
+- New Interac 24
+- New Interac 32
+- New JCB 12
+- New JCB 18
+- New JCB 24
+- New JCB 32
+- New Kakao Pay 12
+- New Kakao Pay 18
+- New Kakao Pay 24
+- New Kakao Pay 32
+- New Klarna Black 12
+- New Klarna Black 18
+- New Klarna Black 24
+- New Klarna Black 32
+- New Klarna Pink 12
+- New Klarna Pink 18
+- New Klarna Pink 24
+- New Klarna Pink 32
+- New Klarna White 12
+- New Klarna White 18
+- New Klarna White 24
+- New Klarna White 32
+- New Maestro 12
+- New Maestro 24
+- New Maestro 18
+- New Maestro 32
+- New Mastercard 12
+- New Mastercard 24
+- New Mastercard 18
+- New Mastercard 32
+- New Mercado Pago 12
+- New Mercado Pago 18
+- New Mercado Pago 24
+- New Mercado Pago 32
+- New Money Stack Blue 12
+- New Money Stack Blue 18
+- New Money Stack Blue 24
+- New Money Stack Blue 32
+- New Monthly Invoice 12
+- New Monthly Invoice 18
+- New Monthly Invoice 24
+- New Monthly Invoice 32
+- New NFC card 12
+- New NFC card 18
+- New NFC card 24
+- New NFC card 32
+- New Payoneer 12
+- New Payoneer 18
+- New Payoneer 24
+- New Payoneer 32
+- New PayPal 12
+- New PayPal 18
+- New PayPal 24
+- New PayPal 32
+- New PayPal Blue 12
+- New PayPal Blue 18
+- New PayPal Blue 24
+- New PayPal Blue 32
+- New PayPal Credit 12
+- New PayPal Credit 18
+- New PayPal Credit 24
+- New PayPal Credit 32
+- New Pay By Bank 12
+- New Pay By Bank 18
+- New Pay By Bank 24
+- New Pay By Bank 32
+- New PayPay 12
+- New PayPay 18
+- New PayPay 24
+- New PayPay 32
+- New Postepay 12
+- New Postepay 24
+- New Postepay 18
+- New Postepay 32
+- New TD 12
+- New TD 18
+- New TD 24
+- New TD 32
+- New UnionPay 12
+- New UnionPay 18
+- New UnionPay 24
+- New UnionPay 32
+- New USAA 12
+- New USAA 18
+- New USAA 24
+- New USAA 32
+- New Venmo 12
+- New Venmo 24
+- New Venmo 18
+- New Venmo 32
+- New Venmo disabled 12
+- New Venmo disabled 24
+- New Venmo disabled 18
+- New Venmo disabled 32
+- New Visa 12
+- New Visa 24
+- New Visa 18
+- New Visa 32
+- New Wallet Balance 12
+- New Wallet Balance 18
+- New Wallet Balance 24
+- New Wallet Balance 32
+- New Wells Fargo 12
+- New Wells Fargo 18
+- New Wells Fargo 24
+- New Wells Fargo 32
+- New Wire Transfer Card 12
+- New Wire Transfer Card 18
+- New Wire Transfer Card 24
+- New Wire Transfer Card 32
+- New Zip Pay 12
+- New Zip Pay 18
+- New Zip Pay 24
+- New Zip Pay 32
+- New Add Image 24
+- New Auto Adjust 24
+- New Auto Adjust 16
+- New Background Removal 24
+- New Background Removal 16
+- New Brightness 24
+- New Brightness 20
+- New Brightness 16
+- New Camera 24
+- New Camera 16
+- New Contrast 24
+- New Crop 24
+- New Flash 24
+- New Flash Auto 24
+- New Flash Off 24
+- New Gallery 24
+- New Gallery 16
+- New Image 24
+- New Image 16
+- New Rotate 24
+- New Rotate 20
+- New Rotate 16
+- New Rotate Landscape Left 24
+- New Rotate Landscape Right 24
+- New Rotate Portrait Left 24
+- New Rotate Portrait Right 24
+- New Select All 24
+- New Sharpen 24
+- New Switch Camera 24
+- New Undo 24
+- New Undo 16
+- New Unselect All 24
+- New Authenticity Guarantee 24
+- New Authenticity Guarantee 16
+- New Authenticity Guarantee filled 24
+- New Authenticity Guarantee filled 16
+- New Brand Authorized Seller 24
+- New Brand Authorized Seller 16
+- New Certified Recycled 24
+- New Certified Recycled 16
+- New Click to Call 24
+- New Click to Call 16
+- New Direct from Brand 24
+- New Direct from Brand 16
+- New eBay for Charity 24
+- New eBay for Charity 16
+- New eBay International Shipping 24
+- New eBay International Shipping 16
+- New eBay Plus 24
+- New eBay Plus 16
+- New eBay Preloved 24
+- New eBay Preloved 16
+- New eBay Refurbished 24
+- New eBay Refurbished 16
+- New Free Warranty 24
+- New Free Warranty 16
+- New Guaranteed Fit filled 24
+- New Guaranteed Fit filled 16
+- New Money Back Guarantee 24
+- New Money Back Guarantee 16
+- New Money Back Guarantee filled 24
+- New Money Back Guarantee filled 16
+- New PSA Vault 24
+- New PSA Vault 16
+- New Secure Purchase 24
+- New Secure Purchase 16
+- New Top Rated Plus 24
+- New Top Rated Plus 16
+- New Top Rated Seller 24
+- New Top Rated Seller 16
+- New Top Service 24
+- New Top Service 16
+- New Top Service filled 24
+- New Top Service filled 16
+- New Verified Condition 24
+- New Verified Condition 16
+- New Face Happiest 24
+- New Face Happy 24
+- New Face Happy 16
+- New Face Neutral 24
+- New Face Sad 24
+- New Feedback Negative 16
+- New Feedback Neutral 16
+- New Feedback Positive 16
+- New Face Saddest 24
+- New Star Empty 40
+- New Star Empty 24
+- New Star Empty 16
+- New Star Half 24
+- New Star Half 16
+- New Star Filled 40
+- New Star Filled 24
+- New Star Filled 16
+- New Thumb Down 24
+- New Thumb Down 20
+- New Thumb Down 16
+- New Thumb Down filled 24
+- New Thumb Down filled 20
+- New Thumb Down filled 16
+- New Thumb Up 24
+- New Thumb Up 20
+- New Thumb Up 16
+- New Thumb Up filled 24
+- New Thumb Up filled 20
+- New Thumb Up filled 16
+- New Coin Battery 48
+- New European Conformity 48
+- New No Children Zero Three 48
+- New Out of Reach 48
+- New Checkbox  Checked 24
+- New Checkbox  Checked 18
+- New Checkbox  Mixed 24
+- New Checkbox  Mixed 18
+- New Checkbox Unchecked 24
+- New Checkbox Unchecked 18
+- New Radio Checked 24
+- New Radio Checked 18
+- New Radio Unchecked 24
+- New Radio Unchecked 18
+- New Carryon 24
+- New Check In 24
+- New Forklift 24
+- New Forklift 16
+- New Handbag 24
+- New Handbag 16
+- New Large Box 24
+- New Large Box 16
+- New Medium Box 24
+- New Medium Box 16
+- New Package 24
+- New Package 16
+- New Package Error 24
+- New Satchel 24
+- New Satchel 16
+- New Ship and Local 24
+- New Ship and Local 16
+- New Ship and Safety 24
+- New Ship and Safety 16
+- New Shoe Box 24
+- New Small Box 24
+- New Small Box 16
+- New Small Letter 24
+- New Suitcase 24
+- New Truck 24
+- New Truck 16
+- New Truck shipped 24
+- New Truck shipped 16
+- New Truck shipped 12
+- New Apple 24
+- New Discord 24
+- New Facebook 24
+- New Facebook Messenger 24
+- New Github 24
+- New Google 24
+- New Instagram 24
+- New Linkedin 24
+- New Pinterest 24
+- New Reddit 24
+- New TikTok 24
+- New Twitter 24
+- New Whatsapp 24
+- New Youtube 24
+- New Attention 24
+- New Attention 16
+- New Attention filled 24
+- New Attention filled 16
+- New Attention Triangle 24
+- New Attention Triangle 16
+- New Attention Triangle filled 24
+- New Attention Triangle filled 16
+- New Checkmark 24
+- New Confirmation 24
+- New Confirmation 16
+- New Confirmation filled 24
+- New Confirmation filled 16
+- New Confirmation filled 12
+- New Information 24
+- New Information 20
+- New Information 16
+- New Information 12
+- New Information filled 24
+- New Information filled 20
+- New Information filled 16
+- New Negative filled 24
+- New Negative filled 16
+- New Progress Current 24
+- New Progress Upcoming 24
+- New Sparkline Down 24
+- New Sparkline Down 20
+- New Sparkline Down 16
+- New Sparkline Up 24
+- New Sparkline Up filled 24
+- New Sparkline Up 20
+- New Sparkline Up 16
+- New Tick 24
+- New Tick 16
+- New Tick 12
+- New Trend Up 16
+- New Trend Down 16
+- New Audio High 24
+- New Audio High 20
+- New Audio High 16
+- New Audio Low 16
+- New Audio Off 24
+- New Audio Off 20
+- New Audio Off 16
+- New Closed Caption 24
+- New Closed Caption 16
+- New Closed Caption filled 24
+- New Closed Caption filled 16
+- New Contract 16
+- New Expand 16
+- New Fast Forward 16
+- New Live Bag Play filled 24
+- New Live Bag Play filled 16
+- New Pause 24
+- New Pause 20
+- New Pause 16
+- New Play 24
+- New Play 20
+- New Play 16
+- New Play Disabled 16
+- New Play filled 24
+- New Play filled 16
+- New Rewind 16
+- New Stop 24
+- New Stop 20
+- New Stop 16
+- New Arrows 3D filled 64
+- New Attention 64
+- New Bank 64
+- New Bids 64
+- New Calendar 64
+- New Camera 64
+- New Card Stack 64
+- New Cart 64
+- New Chat 64
+- New Clock 64
+- New Confirmation 64
+- New Credit Card 64
+- New eBay International Shipping 64
+- New Exclude 64
+- New Fingerprint 64
+- New Gift 64
+- New Glasses 64
+- New Graph 64
+- New History 64
+- New Image 64
+- New Inspect 64
+- New Live Bag Play filled 64
+- New Location 64
+- New Locker 64
+- New Mail 64
+- New Notification 64
+- New Package 64
+- New Passkey 64
+- New Pause filled 64
+- New Play filled 64
+- New Profile 64
+- New Return 64
+- New Search 64
+- New Selling 64
+- New Store 64
+- New Text Messaging 64
+- New Thumb Up 64
+- New Truck 64
+- New Wallet 64
+- Updated Arrows Expand 24
+- Updated Arrows Expand 16
+- Updated Clear 20
 ## 2026-08-05
 
 ### Changes:
@@ -30,6 +1114,7 @@
 1 Icon(s) Total
 
 - New Add 16
+
 
 
 
