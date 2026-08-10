@@ -1,5 +1,1103 @@
 # Global Iconography Changelog
 
+## 2026-08-10
+
+### Changes:
+1093 Icon(s) Total
+
+- Updated Add 16
+- Updated Add 12
+- Updated Arrows 3D 24
+- Updated Arrows 3D 16
+- Updated Arrows Expand 24
+- Updated Arrows Expand 16
+- Updated Bookmark 24
+- Updated Bookmark filled 24
+- Updated Bookmark 16
+- Updated Bookmark filled 16
+- Updated Cart Add 24
+- Updated Cart Add 20
+- Updated Cart Add 16
+- Updated Clear 24
+- Updated Clear 20
+- Updated Clear 16
+- Updated Close 24
+- Updated Close 20
+- Updated Close 16
+- Updated Close 12
+- Updated Copy 24
+- Updated Copy 16
+- Updated Customize 24
+- Updated Customize 16
+- Updated Delete 24
+- Updated Delete 20
+- Updated Delete 16
+- Updated Desktop 24
+- Updated Desktop 20
+- Updated Desktop 16
+- Updated Drag Drop 24
+- Updated Drag Drop 16
+- Updated Download 24
+- Updated Download 20
+- Updated Download 16
+- Updated Fingerprint 24
+- Updated Fingerprint 16
+- Updated Glasses 24
+- Updated Hand Swipe 40
+- Updated Heart 24
+- Updated Heart 20
+- Updated Heart 16
+- Updated Heart filled 24
+- Updated Heart filled 20
+- Updated Heart filled 16
+- Updated Hide 24
+- Updated Hide 16
+- Updated Key 24
+- Updated Key 16
+- Updated Link 24
+- Updated Link 20
+- Updated Link 16
+- Updated Eye 24
+- Updated Eye 16
+- Updated Location Arrow 24
+- Updated Location Arrow 16
+- Updated Markdown 24
+- Updated Markdown 20
+- Updated Markdown 16
+- Updated Microphone 24
+- Updated Microphone 16
+- Updated Mobile 24
+- Updated Mobile 20
+- Updated Mobile 16
+- Updated Neutral 24
+- Updated Neutral 16
+- Updated Panel 24
+- Updated Panel 20
+- Updated Panel 16
+- Updated Panel Close 24
+- Updated Panel Close 20
+- Updated Panel Close 16
+- Updated Panel Open 24
+- Updated Panel Open 20
+- Updated Panel Open 16
+- Updated Panel Close Vertical 24
+- Updated Panel Close Vertical 20
+- Updated Panel Close Vertical 16
+- Updated Panel Open Vertical 24
+- Updated Panel Open Vertical 20
+- Updated Panel Open Vertical 16
+- Updated Pencil 24
+- Updated Pencil 20
+- Updated Pencil 16
+- Updated Phone 24
+- Updated Phone 16
+- Updated Pin 24
+- Updated Pin filled 24
+- Updated Pin 16
+- Updated Pin 12
+- Updated Pin filled 16
+- Updated Pin filled 12
+- Updated Print 24
+- Updated Print 16
+- Updated QR Code 24
+- Updated QR Code 16
+- Updated Recovery Code 24
+- Updated Recovery Code 16
+- Updated Refresh 24
+- Updated Refresh 20
+- Updated Refresh 16
+- Updated Remove 24
+- Updated Remove 16
+- Updated Remove 12
+- Updated Return 24
+- Updated Return 16
+- Updated Scan 24
+- Updated Scan 16
+- Updated Search Similar 24
+- Updated Search Similar 20
+- Updated Search Similar 16
+- Updated Security Key 24
+- Updated Send 24
+- Updated Share IOS 24
+- Updated Share IOS 20
+- Updated Share IOS 16
+- Updated Share Android 24
+- Updated Share Android 20
+- Updated Share Android 16
+- Updated Show 24
+- Updated Show 16
+- Updated Sort 24
+- Updated Sort 16
+- Updated Sort 12
+- Updated Sort Down 12
+- Updated Sort Up 12
+- Updated Tablet 24
+- Updated Tablet 20
+- Updated Tablet 16
+- Updated Text Size 24
+- Updated Text Size 16
+- Updated Translate 24
+- Updated Translate 20
+- Updated Translate 16
+- Updated Upload 24
+- Updated Upload 16
+- Updated Zoom In 24
+- Updated Zoom In 16
+- Updated Zoom Out 24
+- Updated Zoom Out 16
+- Updated Dollar 24
+- Updated Dollar 16
+- Updated Dollar Off 24
+- Updated Euro 24
+- Updated Euro 16
+- Updated Franc 24
+- Updated Franc 16
+- Updated Krona 24
+- Updated Krona 16
+- Updated Peso 24
+- Updated Peso 16
+- Updated Pound 24
+- Updated Pound 16
+- Updated Ringgit 24
+- Updated Ringgit 16
+- Updated Rupee 24
+- Updated Rupee 16
+- Updated Won 24
+- Updated Won 16
+- Updated Yuan 24
+- Updated Yuan 16
+- Updated Zloty 24
+- Updated Zloty 16
+- Updated Condensed Grid 24
+- Updated Condensed Grid filled 24
+- Updated Density Compact 24
+- Updated Density Compact 16
+- Updated Density Default 24
+- Updated Density Default 16
+- Updated Density Relaxed 24
+- Updated Density Relaxed 16
+- Updated Density Row Compact 24
+- Updated Density Row Compact 16
+- Updated Density Row Relaxed 24
+- Updated Density Row Relaxed 16
+- Updated Filter 24
+- Updated Filter 16
+- Updated Full View 24
+- Updated Full View 16
+- Updated Full View filled 24
+- Updated Full View filled 16
+- Updated Grid View 24
+- Updated Grid View 16
+- Updated Grid View filled 24
+- Updated Grid View filled 16
+- Updated List View 24
+- Updated List View 16
+- Updated List View filled 24
+- Updated List View filled 16
+- Updated Masonry View 24
+- Updated Masonry View filled 24
+- Updated Masonry View 16
+- Updated Masonry View filled 16
+- Updated Relaxed Grid 24
+- Updated Relaxed Grid filled 24
+- Updated Split View 24
+- Updated Split View filled 24
+- Updated Afterpay Logo 24
+- Updated Apple Music 24
+- Updated eBay Bucks Logo 16
+- Updated eBay Logo 16
+- Updated eBay Money Back Guarantee Logo 16
+- Updated eBay Plus Logo 16
+- Updated eBay Plus Logo Dark 16
+- Updated Nectar Logo 24
+- Updated PayPal Logo 16
+- Updated Pay by Bank UK 24
+- Updated Pay by Bank BE 24
+- Updated Pay by Bank DE 24
+- Updated Pay by Bank FR 24
+- Updated PSA Vault Logo 16
+- Updated PSA Vault Logo Color 16
+- Updated PSA Logo 16
+- Updated PSA Logo Color 16
+- Updated Archive 24
+- Updated Archive 16
+- Updated Chat 24
+- Updated Chat 16
+- Updated Flag 24
+- Updated Flag 16
+- Updated Flag filled 24
+- Updated Flag filled 16
+- Updated Folder 24
+- Updated Folder 16
+- Updated Folder Add 24
+- Updated Folder Add 16
+- Updated Inbox 24
+- Updated Inbox 16
+- Updated Mail 24
+- Updated Mail 20
+- Updated Mail 16
+- Updated Mail Move 24
+- Updated Mail Move 16
+- Updated Mail Open 24
+- Updated Mail Open 16
+- Updated Mail Unread 24
+- Updated Mail Unread 16
+- Updated Reply 24
+- Updated Reply 16
+- Updated Reply 12
+- Updated Reply Chat 24
+- Updated Reply Chat 16
+- Updated Reply Chat 12
+- Updated Text Messaging 24
+- Updated Text Messaging 20
+- Updated Text Messaging 16
+- Updated Adjust price down 24
+- Updated Adjust price down 16
+- Updated Adjust price up 24
+- Updated Adjust price up 16
+- Updated AI 24
+- Updated AI 20
+- Updated AI 16
+- Updated AI thin 16
+- Updated AI Camera 24
+- Updated AI Camera 20
+- Updated AI Camera 16
+- Updated AI Mobile 24
+- Updated AI Mobile 20
+- Updated AI Mobile 16
+- Updated AI Spectrum filled 24
+- Updated AI Spectrum filled 20
+- Updated AI Spectrum filled 16
+- Updated AI Search 24
+- Updated AI Search filled 24
+- Updated AI Search 20
+- Updated AI Search 16
+- Updated AI Shirt 24
+- Updated AI Shirt 20
+- Updated AI Shirt 16
+- Updated AI Summary 24
+- Updated AI Summary 20
+- Updated AI Summary 16
+- Updated AI Tools 24
+- Updated AI Tools 20
+- Updated AI Tools 16
+- Updated Arrow Down 24
+- Updated Arrow Down 20
+- Updated Arrow Down 16
+- Updated Arrow Down 12
+- Updated Arrow Left 24
+- Updated Arrow Left 20
+- Updated Arrow Left 16
+- Updated Arrow Left 12
+- Updated Arrow Right 24
+- Updated Arrow Right 20
+- Updated Arrow Right 16
+- Updated Arrow Right 12
+- Updated Arrow Up 24
+- Updated Arrow Up 20
+- Updated Arrow Up 16
+- Updated Arrow Up 12
+- Updated Article 24
+- Updated Article 16
+- Updated Atv 24
+- Updated Atv 16
+- Updated Bank 24
+- Updated Bank 20
+- Updated Bank 16
+- Updated Bar Chart 24
+- Updated Bar Chart 16
+- Updated Bids 24
+- Updated Bids 16
+- Updated Bids 12
+- Updated Boat 24
+- Updated Boat 16
+- Updated Book 24
+- Updated Book 16
+- Updated Calendar 24
+- Updated Calendar 16
+- Updated Car 24
+- Updated Car 16
+- Updated Car Brake 24
+- Updated Car Brake 16
+- Updated Cart 24
+- Updated Cart 20
+- Updated Cart 16
+- Updated Categories 24
+- Updated Categories 16
+- Updated Chair 24
+- Updated Chair 16
+- Updated Chevron Down 24
+- Updated Chevron Down 20
+- Updated Chevron Down 16
+- Updated Chevron Down 12
+- Updated Chevron Left 24
+- Updated Chevron Left 20
+- Updated Chevron Left 16
+- Updated Chevron Left 12
+- Updated Chevron Right 24
+- Updated Chevron Right 20
+- Updated Chevron Right 16
+- Updated Chevron Right 12
+- Updated Chevron Up 24
+- Updated Chevron Up 20
+- Updated Chevron Up 16
+- Updated Chevron Up 12
+- Updated Chinese Coin 24
+- Updated Chinese Coin 16
+- Updated Clock 24
+- Updated Clock 16
+- Updated Clock 12
+- Updated Clock Fast 24
+- Updated Clock Fast 16
+- Updated Coin 24
+- Updated Collections 24
+- Updated Collections 16
+- Updated Coupon 24
+- Updated Coupon 20
+- Updated Coupon 16
+- Updated Credit Card 24
+- Updated Credit Card 20
+- Updated Credit Card 16
+- Updated Credit Card CVV Back 24
+- Updated Credit Card CVV Back 20
+- Updated Credit Card CVV Front 24
+- Updated Credit Card CVV Front 20
+- Updated Diamond 24
+- Updated Diamond 16
+- Updated Discount 24
+- Updated Discount 16
+- Updated Discount Auto 24
+- Updated Discount Auto 16
+- Updated Live Bag 24
+- Updated Live Bag filled 24
+- Updated Live Bag 20
+- Updated eBay Live Bag 16
+- Updated Live Bag thin 16
+- Updated Live Broadcast 24
+- Updated Live Broadcast filled 24
+- Updated Live Broadcast 20
+- Updated Live Broadcast 16
+- Updated Live Broadcast thin 16
+- Updated Exclude 24
+- Updated Exclude 16
+- Updated Explore 24
+- Updated Explore 16
+- Updated External Link 24
+- Updated External Link 20
+- Updated External Link 16
+- Updated Fall leaf 24
+- Updated Fall leaf 16
+- Updated Feedback 24
+- Updated Feedback 20
+- Updated Feedback 16
+- Updated Feedback Error 24
+- Updated Feedback Error 16
+- Updated Feedback Received 24
+- Updated Feedback Received 16
+- Updated File 24
+- Updated File 16
+- Updated Gift 24
+- Updated Gift 20
+- Updated Gift 16
+- Updated Graph 24
+- Updated Graph 16
+- Updated Graph Dynamic 24
+- Updated Graph Dynamic 16
+- Updated Hanger 24
+- Updated Hanger 16
+- Updated Headlight 24
+- Updated Headlight 16
+- Updated Headphone 24
+- Updated Headphone 16
+- Updated Help 24
+- Updated Help 20
+- Updated Help 16
+- Updated Help Outline 24
+- Updated Help Outline 20
+- Updated Help Outline 16
+- Updated History 24
+- Updated History 16
+- Updated Home 24
+- Updated Home 20
+- Updated Home 16
+- Updated Home filled 24
+- Updated Inspect 24
+- Updated Inspect 16
+- Updated Item List 24
+- Updated Item List 20
+- Updated Item List 16
+- Updated Jet Ski 24
+- Updated Jet Ski 16
+- Updated Keyboard 24
+- Updated Keyboard 16
+- Updated Lamp 24
+- Updated Lamp 16
+- Updated Lightbulb 24
+- Updated Lightbulb 16
+- Updated Lightning Bolt 24
+- Updated Lightning Bolt filled 24
+- Updated Lightning Bolt 16
+- Updated Lightning Bolt filled 16
+- Updated Lightning Bolt 12
+- Updated Lightning Bolt filled 12
+- Updated Location 24
+- Updated Location 16
+- Updated Lock 24
+- Updated Lock 16
+- Updated Lock filled 24
+- Updated Lock filled 20
+- Updated Lock filled 16
+- Updated Locker 24
+- Updated Locker 16
+- Updated Map 24
+- Updated Map 20
+- Updated Map 16
+- Updated Megaphone 24
+- Updated Megaphone 16
+- Updated Menu 24
+- Updated Menu 20
+- Updated Menu 16
+- Updated Mobile Signal 24
+- Updated Moon 24
+- Updated Moon 20
+- Updated Moon 16
+- Updated Money Stack 24
+- Updated Money Stack 20
+- Updated Money Stack 16
+- Updated Motorcycle 24
+- Updated Motorcycle 16
+- Updated Mountain 24
+- Updated Mountain 16
+- Updated Move 24
+- Updated Move 16
+- Updated Nfc 24
+- Updated Nfc 16
+- Updated Note 24
+- Updated Note 16
+- Updated Note 12
+- Updated Notification 24
+- Updated Notification filled 24
+- Updated Notification 20
+- Updated Notification filled 20
+- Updated Notification 16
+- Updated Notification filled 16
+- Updated Overflow Vertical 24
+- Updated Overflow Vertical 20
+- Updated Overflow Vertical 16
+- Updated Overflow Horizontal 24
+- Updated Overflow Horizontal 20
+- Updated Overflow Horizontal 16
+- Updated Passkey 24
+- Updated Passkey 16
+- Updated Payout 24
+- Updated Payout 20
+- Updated Payout 16
+- Updated Pencil Signed 24
+- Updated People 24
+- Updated People 16
+- Updated Potted Plant 24
+- Updated Potted Plant 16
+- Updated Profile 24
+- Updated Profile filled 24
+- Updated Profile 20
+- Updated Profile 16
+- Updated Profile Check 24
+- Updated Profile Check 20
+- Updated Profile Check 16
+- Updated Promotion 24
+- Updated Promotion 16
+- Updated Promotion 12
+- Updated Ribbon 24
+- Updated Ribbon 16
+- Updated Rim 24
+- Updated Rim 16
+- Updated Ruler 24
+- Updated Ruler 16
+- Updated Search 24
+- Updated Search filled 24
+- Updated Search 20
+- Updated Search 16
+- Updated Seasons 24
+- Updated Seasons 16
+- Updated Selling 24
+- Updated Selling filled 24
+- Updated Selling 20
+- Updated Selling 16
+- Updated Selling 12
+- Updated Settings 24
+- Updated Settings 20
+- Updated Settings 16
+- Updated Shirt 24
+- Updated Shirt 16
+- Updated Shopping Event 24
+- Updated Shopping Event 16
+- Updated Shovel 24
+- Updated Shovel 16
+- Updated Skull 24
+- Updated Skull 16
+- Updated Skull 12
+- Updated Sneaker 24
+- Updated Sneaker 16
+- Updated Snowflake 24
+- Updated Snowflake 16
+- Updated Snowmobile 24
+- Updated Snowmobile 16
+- Updated Speedometer 24
+- Updated Speedometer 16
+- Updated Split Payment 24
+- Updated Split Payment 16
+- Updated Spring leaf 24
+- Updated Spring leaf 16
+- Updated Store 24
+- Updated Store filled 24
+- Updated Store 16
+- Updated Support 24
+- Updated Swap 24
+- Updated Swap 16
+- Updated Target 24
+- Updated Target 16
+- Updated Tire 24
+- Updated Tire 16
+- Updated Toggle Mode Top 24
+- Updated Toggle Mode Bottom 24
+- Updated Trading Card 24
+- Updated Trading Card 16
+- Updated Trading Card Grade 24
+- Updated Trading Card Grade 16
+- Updated Trading Card Edition 24
+- Updated Transaction 24
+- Updated Trophy 24
+- Updated Trophy 16
+- Updated Unlock 24
+- Updated Unlock 16
+- Updated Video 24
+- Updated Wallet 24
+- Updated Wallet 16
+- Updated Watch 24
+- Updated Watch 16
+- Updated Wire Transfer 24
+- Updated Wire Transfer 16
+- Updated Wrench 24
+- Updated Wrench 16
+- Updated Afterpay 12
+- Updated Afterpay 18
+- Updated Afterpay 24
+- Updated Afterpay 32
+- Updated Alipay CN 12
+- Updated Alipay CN 18
+- Updated Alipay CN 24
+- Updated Alipay CN 32
+- Updated Alipay CN disabled 12
+- Updated Alipay CN disabled 18
+- Updated Alipay CN disabled 24
+- Updated Alipay CN disabled 32
+- Updated Alipay HK 12
+- Updated Alipay HK 18
+- Updated Alipay HK 24
+- Updated Alipay HK 32
+- Updated AMEX 12
+- Updated AMEX 24
+- Updated AMEX 18
+- Updated AMEX 32
+- Updated Apple Pay 12
+- Updated Apple Pay 18
+- Updated Apple Pay 24
+- Updated Apple Pay 32
+- Updated Bancontact 12
+- Updated Bancontact 18
+- Updated Bancontact 24
+- Updated Bancontact 32
+- Updated Bancontact disabled 12
+- Updated Bancontact disabled 18
+- Updated Bancontact disabled 24
+- Updated Bancontact disabled 32
+- Updated Bank Account 12
+- Updated Bank Account 18
+- Updated Bank Account 24
+- Updated Bank Account 32
+- Updated Bank of America 12
+- Updated Bank of America 18
+- Updated Bank of America 24
+- Updated Bank of America 32
+- Updated Capital One 12
+- Updated Capital One 18
+- Updated Capital One 24
+- Updated Capital One 32
+- Updated Carnet 12
+- Updated Carnet 18
+- Updated Carnet 24
+- Updated Carnet 32
+- Updated Cashapp 12
+- Updated Cashapp 18
+- Updated Cashapp 24
+- Updated Cashapp 32
+- Updated CB 12
+- Updated CB 18
+- Updated CB 24
+- Updated CB 32
+- Updated CB disabled 12
+- Updated CB disabled 18
+- Updated CB disabled 24
+- Updated CB disabled 32
+- Updated Chase 12
+- Updated Chase 18
+- Updated Chase 24
+- Updated Chase 32
+- Updated Citi 12
+- Updated Citi 18
+- Updated Citi 24
+- Updated Citi 32
+- Updated Diners 12
+- Updated Diners 18
+- Updated Diners 24
+- Updated Diners 32
+- Updated Direct Debit 12
+- Updated Direct Debit 18
+- Updated Direct Debit 24
+- Updated Direct Debit 32
+- Updated Discover 12
+- Updated Discover 24
+- Updated Discover 18
+- Updated Discover 32
+- Updated eBay Balance 12
+- Updated eBay Balance 18
+- Updated eBay Balance 24
+- Updated eBay Balance 32
+- Updated eBay Credit Card Black 12
+- Updated eBay Credit Card Black 18
+- Updated eBay Credit Card Black 24
+- Updated eBay Credit Card Black 32
+- Updated eBay Credit Card Purple 12
+- Updated eBay Credit Card Purple 18
+- Updated eBay Credit Card Purple 24
+- Updated eBay Credit Card Purple 32
+- Updated eBay Credit Card White 12
+- Updated eBay Credit Card White 18
+- Updated eBay Credit Card White 24
+- Updated eBay Credit Card White 32
+- Updated eBay Mastercard 12
+- Updated eBay Mastercard 18
+- Updated eBay Mastercard 24
+- Updated eBay Mastercard 32
+- Updated Eftpos 12
+- Updated Eftpos 18
+- Updated Eftpos 24
+- Updated Eftpos 32
+- Updated Eftpos disabled 12
+- Updated Eftpos disabled 18
+- Updated Eftpos disabled 24
+- Updated Eftpos disabled 32
+- Updated Elo 12
+- Updated Elo 18
+- Updated Elo 24
+- Updated Elo 32
+- Updated Escrow Card 12
+- Updated Escrow Card 18
+- Updated Escrow Card 24
+- Updated Escrow Card 32
+- Updated General Card 12
+- Updated General Card 18
+- Updated General Card 24
+- Updated General Card 32
+- Updated Generic Card 12
+- Updated Generic Card 18
+- Updated Generic Card 24
+- Updated Generic Card 32
+- Updated Gift Card 12
+- Updated Gift Card 18
+- Updated Gift Card 24
+- Updated Gift Card 32
+- Updated Girocard 12
+- Updated Girocard 18
+- Updated Girocard 24
+- Updated Girocard 32
+- Updated Google Pay 12
+- Updated Google Pay 18
+- Updated Google Pay 24
+- Updated Google Pay 32
+- Updated Interac 12
+- Updated Interac 18
+- Updated Interac 24
+- Updated Interac 32
+- Updated JCB 12
+- Updated JCB 18
+- Updated JCB 24
+- Updated JCB 32
+- Updated Kakao Pay 12
+- Updated Kakao Pay 18
+- Updated Kakao Pay 24
+- Updated Kakao Pay 32
+- Updated Klarna Black 12
+- Updated Klarna Black 18
+- Updated Klarna Black 24
+- Updated Klarna Black 32
+- Updated Klarna Pink 12
+- Updated Klarna Pink 18
+- Updated Klarna Pink 24
+- Updated Klarna Pink 32
+- Updated Klarna White 12
+- Updated Klarna White 18
+- Updated Klarna White 24
+- Updated Klarna White 32
+- Updated Maestro 12
+- Updated Maestro 24
+- Updated Maestro 18
+- Updated Maestro 32
+- Updated Mastercard 12
+- Updated Mastercard 24
+- Updated Mastercard 18
+- Updated Mastercard 32
+- Updated Mercado Pago 12
+- Updated Mercado Pago 18
+- Updated Mercado Pago 24
+- Updated Mercado Pago 32
+- Updated Money Stack Blue 12
+- Updated Money Stack Blue 18
+- Updated Money Stack Blue 24
+- Updated Money Stack Blue 32
+- Updated Monthly Invoice 12
+- Updated Monthly Invoice 18
+- Updated Monthly Invoice 24
+- Updated Monthly Invoice 32
+- Updated NFC card 12
+- Updated NFC card 18
+- Updated NFC card 24
+- Updated NFC card 32
+- Updated Payoneer 12
+- Updated Payoneer 18
+- Updated Payoneer 24
+- Updated Payoneer 32
+- Updated PayPal 12
+- Updated PayPal 18
+- Updated PayPal 24
+- Updated PayPal 32
+- Updated PayPal Blue 12
+- Updated PayPal Blue 18
+- Updated PayPal Blue 24
+- Updated PayPal Blue 32
+- Updated PayPal Credit 12
+- Updated PayPal Credit 18
+- Updated PayPal Credit 24
+- Updated PayPal Credit 32
+- Updated Pay By Bank 12
+- Updated Pay By Bank 18
+- Updated Pay By Bank 24
+- Updated Pay By Bank 32
+- Updated PayPay 12
+- Updated PayPay 18
+- Updated PayPay 24
+- Updated PayPay 32
+- Updated Postepay 12
+- Updated Postepay 24
+- Updated Postepay 18
+- Updated Postepay 32
+- Updated TD 12
+- Updated TD 18
+- Updated TD 24
+- Updated TD 32
+- Updated UnionPay 12
+- Updated UnionPay 18
+- Updated UnionPay 24
+- Updated UnionPay 32
+- Updated USAA 12
+- Updated USAA 18
+- Updated USAA 24
+- Updated USAA 32
+- Updated Venmo 12
+- Updated Venmo 24
+- Updated Venmo 18
+- Updated Venmo 32
+- Updated Venmo disabled 12
+- Updated Venmo disabled 24
+- Updated Venmo disabled 18
+- Updated Venmo disabled 32
+- Updated Visa 12
+- Updated Visa 24
+- Updated Visa 18
+- Updated Visa 32
+- Updated Wallet Balance 12
+- Updated Wallet Balance 18
+- Updated Wallet Balance 24
+- Updated Wallet Balance 32
+- Updated Wells Fargo 12
+- Updated Wells Fargo 18
+- Updated Wells Fargo 24
+- Updated Wells Fargo 32
+- Updated Wire Transfer Card 12
+- Updated Wire Transfer Card 18
+- Updated Wire Transfer Card 24
+- Updated Wire Transfer Card 32
+- Updated Zip Pay 12
+- Updated Zip Pay 18
+- Updated Zip Pay 24
+- Updated Zip Pay 32
+- Updated Add Image 24
+- Updated Auto Adjust 24
+- Updated Auto Adjust 16
+- Updated Background Removal 24
+- Updated Background Removal 16
+- Updated Brightness 24
+- Updated Brightness 20
+- Updated Brightness 16
+- Updated Camera 24
+- Updated Camera 16
+- Updated Contrast 24
+- Updated Crop 24
+- Updated Flash 24
+- Updated Flash Auto 24
+- Updated Flash Off 24
+- Updated Gallery 24
+- Updated Gallery 16
+- Updated Image 24
+- Updated Image 16
+- Updated Rotate 24
+- Updated Rotate 20
+- Updated Rotate 16
+- Updated Rotate Landscape Left 24
+- Updated Rotate Landscape Right 24
+- Updated Rotate Portrait Left 24
+- Updated Rotate Portrait Right 24
+- Updated Select All 24
+- Updated Sharpen 24
+- Updated Switch Camera 24
+- Updated Undo 24
+- Updated Undo 16
+- Updated Unselect All 24
+- Updated Authenticity Guarantee 24
+- Updated Authenticity Guarantee 16
+- Updated Authenticity Guarantee filled 24
+- Updated Authenticity Guarantee filled 16
+- Updated Brand Authorized Seller 24
+- Updated Brand Authorized Seller 16
+- Updated Certified Recycled 24
+- Updated Certified Recycled 16
+- Updated Click to Call 24
+- Updated Click to Call 16
+- Updated Direct from Brand 24
+- Updated Direct from Brand 16
+- Updated eBay for Charity 24
+- Updated eBay for Charity 16
+- Updated eBay International Shipping 24
+- Updated eBay International Shipping 16
+- Updated eBay Plus 24
+- Updated eBay Plus 16
+- Updated eBay Preloved 24
+- Updated eBay Preloved 16
+- Updated eBay Refurbished 24
+- Updated eBay Refurbished 16
+- Updated Free Warranty 24
+- Updated Free Warranty 16
+- Updated Guaranteed Fit filled 24
+- Updated Guaranteed Fit filled 16
+- Updated Money Back Guarantee 24
+- Updated Money Back Guarantee 16
+- Updated Money Back Guarantee filled 24
+- Updated Money Back Guarantee filled 16
+- Updated PSA Vault 24
+- Updated PSA Vault 16
+- Updated Secure Purchase 24
+- Updated Secure Purchase 16
+- Updated Top Rated Plus 24
+- Updated Top Rated Plus 16
+- Updated Top Rated Seller 24
+- Updated Top Rated Seller 16
+- Updated Top Service 24
+- Updated Top Service 16
+- Updated Top Service filled 24
+- Updated Top Service filled 16
+- Updated Verified Condition 24
+- Updated Verified Condition 16
+- Updated Face Happiest 24
+- Updated Face Happy 24
+- Updated Face Happy 16
+- Updated Face Neutral 24
+- Updated Face Sad 24
+- Updated Feedback Negative 16
+- Updated Feedback Neutral 16
+- Updated Feedback Positive 16
+- Updated Face Saddest 24
+- Updated Star Empty 40
+- Updated Star Empty 24
+- Updated Star Empty 16
+- Updated Star Half 24
+- Updated Star Half 16
+- Updated Star Filled 40
+- Updated Star Filled 24
+- Updated Star Filled 16
+- Updated Thumb Down 24
+- Updated Thumb Down 20
+- Updated Thumb Down 16
+- Updated Thumb Down filled 24
+- Updated Thumb Down filled 20
+- Updated Thumb Down filled 16
+- Updated Thumb Up 24
+- Updated Thumb Up 20
+- Updated Thumb Up 16
+- Updated Thumb Up filled 24
+- Updated Thumb Up filled 20
+- Updated Thumb Up filled 16
+- Updated Coin Battery 48
+- Updated European Conformity 48
+- Updated No Children Zero Three 48
+- Updated Out of Reach 48
+- Updated Checkbox  Checked 24
+- Updated Checkbox  Checked 18
+- Updated Checkbox  Mixed 24
+- Updated Checkbox  Mixed 18
+- Updated Checkbox Unchecked 24
+- Updated Checkbox Unchecked 18
+- Updated Radio Checked 24
+- Updated Radio Checked 18
+- Updated Radio Unchecked 24
+- Updated Radio Unchecked 18
+- Updated Carryon 24
+- Updated Check In 24
+- Updated Forklift 24
+- Updated Forklift 16
+- Updated Handbag 24
+- Updated Handbag 16
+- Updated Large Box 24
+- Updated Large Box 16
+- Updated Medium Box 24
+- Updated Medium Box 16
+- Updated Package 24
+- Updated Package 16
+- Updated Package Error 24
+- Updated Satchel 24
+- Updated Satchel 16
+- Updated Ship and Local 24
+- Updated Ship and Local 16
+- Updated Ship and Safety 24
+- Updated Ship and Safety 16
+- Updated Shoe Box 24
+- Updated Small Box 24
+- Updated Small Box 16
+- Updated Small Letter 24
+- Updated Suitcase 24
+- Updated Truck 24
+- Updated Truck 16
+- Updated Truck shipped 24
+- Updated Truck shipped 16
+- Updated Truck shipped 12
+- Updated Apple 24
+- Updated Discord 24
+- Updated Facebook 24
+- Updated Facebook Messenger 24
+- Updated Github 24
+- Updated Google 24
+- Updated Instagram 24
+- Updated Linkedin 24
+- Updated Pinterest 24
+- Updated Reddit 24
+- Updated TikTok 24
+- Updated Twitter 24
+- Updated Whatsapp 24
+- Updated Youtube 24
+- Updated Attention 24
+- Updated Attention 16
+- Updated Attention filled 24
+- Updated Attention filled 16
+- Updated Attention Triangle 24
+- Updated Attention Triangle 16
+- Updated Attention Triangle filled 24
+- Updated Attention Triangle filled 16
+- Updated Checkmark 24
+- Updated Confirmation 24
+- Updated Confirmation 16
+- Updated Confirmation filled 24
+- Updated Confirmation filled 16
+- Updated Confirmation filled 12
+- Updated Information 24
+- Updated Information 20
+- Updated Information 16
+- Updated Information 12
+- Updated Information filled 24
+- Updated Information filled 20
+- Updated Information filled 16
+- Updated Negative filled 24
+- Updated Negative filled 16
+- Updated Progress Current 24
+- Updated Progress Upcoming 24
+- Updated Sparkline Down 24
+- Updated Sparkline Down 20
+- Updated Sparkline Down 16
+- Updated Sparkline Up 24
+- Updated Sparkline Up filled 24
+- Updated Sparkline Up 20
+- Updated Sparkline Up 16
+- Updated Tick 24
+- Updated Tick 16
+- Updated Tick 12
+- Updated Trend Up 16
+- Updated Trend Down 16
+- Updated Audio High 24
+- Updated Audio High 20
+- Updated Audio High 16
+- Updated Audio Low 16
+- Updated Audio Off 24
+- Updated Audio Off 20
+- Updated Audio Off 16
+- Updated Closed Caption 24
+- Updated Closed Caption 16
+- Updated Closed Caption filled 24
+- Updated Closed Caption filled 16
+- Updated Contract 16
+- Updated Expand 16
+- Updated Fast Forward 16
+- Updated Live Bag Play filled 24
+- Updated Live Bag Play filled 16
+- Updated Pause 24
+- Updated Pause 20
+- Updated Pause 16
+- Updated Play 24
+- Updated Play 20
+- Updated Play 16
+- Updated Play Disabled 16
+- Updated Play filled 24
+- Updated Play filled 16
+- Updated Rewind 16
+- Updated Stop 24
+- Updated Stop 20
+- Updated Stop 16
+- Updated Arrows 3D filled 64
+- Updated Attention 64
+- Updated Bank 64
+- Updated Bids 64
+- Updated Calendar 64
+- Updated Camera 64
+- Updated Card Stack 64
+- Updated Cart 64
+- Updated Chat 64
+- Updated Clock 64
+- Updated Confirmation 64
+- Updated Credit Card 64
+- Updated eBay International Shipping 64
+- Updated Exclude 64
+- Updated Fingerprint 64
+- Updated Gift 64
+- Updated Glasses 64
+- Updated Graph 64
+- Updated History 64
+- Updated Image 64
+- Updated Inspect 64
+- Updated Live Bag Play filled 64
+- Updated Location 64
+- Updated Locker 64
+- Updated Mail 64
+- Updated Notification 64
+- Updated Package 64
+- Updated Passkey 64
+- Updated Pause filled 64
+- Updated Play filled 64
+- Updated Profile 64
+- Updated Return 64
+- Updated Search 64
+- Updated Selling 64
+- Updated Store 64
+- Updated Text Messaging 64
+- Updated Thumb Up 64
+- Updated Truck 64
+- Updated Wallet 64
 ## 2026-08-06
 
 ### Changes:
@@ -1114,6 +2212,7 @@
 1 Icon(s) Total
 
 - New Add 16
+
 
 
 
