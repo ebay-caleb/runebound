@@ -1,5 +1,26 @@
 # Global Iconography Changelog
 
+## 2026-08-25
+
+### Changes:
+16 Icon(s) Total
+
+- New Affirm black 12
+- New Affirm black 18
+- New Affirm black 24
+- New Affirm black 32
+- New Affirm white 12
+- New Affirm white 18
+- New Affirm white 24
+- New Affirm white 32
+- Updated Interac 12
+- Updated Interac 18
+- Updated Interac 24
+- Updated Interac 32
+- Updated JCB 12
+- Updated JCB 18
+- Updated JCB 24
+- Updated JCB 32
 ## 2026-08-10
 
 ### Changes:
@@ -2212,6 +2233,7 @@
 1 Icon(s) Total
 
 - New Add 16
+
 
 
 
