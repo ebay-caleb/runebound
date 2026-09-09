@@ -1,5 +1,15 @@
 # Global Iconography Changelog
 
+## 2026-09-09
+
+### Changes:
+5 Icon(s) Total
+
+- Removed Live Bag 24
+- Removed Live Bag filled 24
+- Removed Live Bag 20
+- Removed eBay Live Bag 16
+- Removed Live Bag thin 16
 ## 2026-08-25
 
 ### Changes:
@@ -2233,6 +2243,7 @@
 1 Icon(s) Total
 
 - New Add 16
+
 
 
 
